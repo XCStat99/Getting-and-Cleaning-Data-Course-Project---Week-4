@@ -37,7 +37,7 @@ new dataset is called 'test_train_reduce'
 ## Step 4
 
 Labels for the variables are tidied and lengthed to add more detail, in additon to making more human readable. 
-More information regarding the varible details can be found in README.
+More information regarding the varible details can be found in the Code Book.
 
 ## Step 5
 
